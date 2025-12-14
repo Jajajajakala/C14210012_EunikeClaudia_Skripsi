@@ -1,4 +1,4 @@
-<img width="1530" height="671" alt="image" src="https://github.com/user-attachments/assets/487f5ded-8df1-4105-af39-748f7899ce64" /># Gold Price Forecasting using Time Series & Machine Learning
+# Gold Price Forecasting using Time Series & Machine Learning
 
 This repository contains my undergraduate thesis project for the Business Information Systems program.
 
